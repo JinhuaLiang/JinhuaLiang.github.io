@@ -237,11 +237,16 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  color: #494e52;
+  color: #020303;
   font-size: 1.8em;
   line-height: 1.5;
   font-family: "Times New Roman", FangSong, STFangsong, sans-serif;
   scroll-behavior: smooth;
+  background-image: url("/img/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: 100% 100%;
 }
 a,
 span,
@@ -262,6 +267,10 @@ blockquote {
 }
 blockquote p {
   margin: 0;
+}
+.posts-expand .post {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 #page_header {
   position: relative;
@@ -321,6 +330,9 @@ blockquote p {
     list-style: none;
     transition: all ease-in-out 0.2s;
     pointer-events: none;
+  }
+  .menus_items:hover {
+    color: #000;
   }
   .menus_items::before {
     display: block;
@@ -506,7 +518,7 @@ blockquote p {
     padding: 0 3.6rem;
   }
   .page article {
-    padding: 0 3.6rem 3.6rem;
+    padding: 0 3.6rem;
   }
 }
 .side-card {
@@ -529,13 +541,13 @@ blockquote p {
 .author-avatar {
   display: table-cell;
   vertical-align: top;
-  width: 40px;
-  height: 40px;
+  width: 200px;
+  height: 200px;
 }
 .author-avatar img {
   width: 100%;
-  max-width: 110px;
-  border-radius: 50%;
+  max-width: 200px;
+  border-radius: 5%;
 }
 .author-discrip {
   display: table-cell;
@@ -708,7 +720,7 @@ blockquote p {
     min-width: 165px;
     float: left;
     margin-right: 1.69492%;
-    opacity: 0.75;
+    opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
   }
