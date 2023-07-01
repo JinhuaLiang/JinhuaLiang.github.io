@@ -1,6 +1,6 @@
 ---
 title: "[Project] Everyday sound recognition with limited annotations"
-excerpt: "The goal is to explore high-performance acoustic scene classification (ASC) technologies at a low computational cost."
+excerpt: "The goal is to explore general-proposed audio understanding in the limited annotations."
 permalink: /research/projects/limited_annotations/
 date: 2021-09-21T15:34:30-04:00
 categories:

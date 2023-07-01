@@ -23,9 +23,9 @@ My curriculum vitae can be found [here](/assets/CV_Jinhua.pdf).
 <div style="text-align:left;color:grey;">Degree: Bachelor of Engineering</div>
 
 ### Awards
-<span style="color:grey;">
+<div style="color:grey;">
 <i>Scholarships</i>
-</span>
+</div>
 <div style="text-align:left;">UK EPSRC Studentship<span style="float:right;">2021-Now</span></div>
 <div style="text-align:left;">China National Scholarship<span style="float:right;">2020</span></div>
 <div style="text-align:left;">The Fisrt Prize Academic Scholarship of Tianjin University<span style="float:right;">2019-2020</span></div>
