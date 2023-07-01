@@ -4,7 +4,9 @@ sitemap: True
 permalink: /publications/
 ---
 ### Conference & journal paper
+<span style="color:grey;font-weight:500;font-size:18px">
 \* denotes the corresponding author
+</span>
 * Jinhua Liang, Huy Phan, and Emmanouil Benetos. “LEARNING FROM TAXONOMY: MULTI-LABEL FEW-SHOT CLASSIFICATION FOR EVERYDAY SOUND RECOGNITION” (in Peer Review).
 * Jinhua Liang, Xubo Liu, Haohe Liu, Huy Phan, Emmanouil Benetos, Mark D. Plumbley, Wenwu Wang. “Adapting Language-Audio Models as Few-Shot Audio Learners” (in Peer Review).
 * Yi Yuan, Haohe Liu, Jinhua Liang, Xubo Liu, Mark D. Plumbley, Wenwu Wang. “Leveraging Pre-trained AudioLDM for Sound Generation: A Benchmark Study” (in Peer Review).
