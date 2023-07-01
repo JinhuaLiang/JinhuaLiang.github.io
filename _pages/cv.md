@@ -23,22 +23,30 @@ My curriculum vitae can be found [here](/assets/CV_Jinhua.pdf).
 <div style="text-align:left;color:grey;">Degree: Bachelor of Engineering</div>
 
 ### Awards
-***Scholarships***
+<span style="color:grey;">
+<i>Scholarships</i>
+</span>
 <div style="text-align:left;">UK EPSRC Studentship<span style="float:right;">2021-Now</span></div>
 <div style="text-align:left;">China National Scholarship<span style="float:right;">2020</span></div>
 <div style="text-align:left;">The Fisrt Prize Academic Scholarship of Tianjin University<span style="float:right;">2019-2020</span></div>
 <div style="text-align:left;">The Second Prize Academic Scholarship of Tianjin University<span style="float:right;">2018</span></div>
 
-***Honors***
+<span style="color:grey;">
+<i>Honors</i>
+</span>
 <div style="text-align:left;">Outstanding Graduate of Tianjin University<span style="float:right;">2020</span></div>
 <div style="text-align:left;">Merit Student of Tianjin University<span style="float:right;">2020</span></div>
 <div style="text-align:left;">Top 10 Outstanding Youth in Electrical and Information Engineering School<span style="float:right;">2020</span></div>
 <div style="text-align:left;">Outstanding Student Cadres of Tianjin University<span style="float:right;">2019</span></div>
-                              
-***Prizes***
+
+<span style="color:grey;">
+<i>Prizes</i>
+</span>
 <div style="text-align:left;">The Third Prize of the North China Division, the 14th China Graduate Electronic Design Competition<span style="float:right;">2019</span></div>
 
-***Others***                                                              
+<span style="color:grey;">
+<i>Others</i>
+</span>                                                              
 <div style="text-align:left;">DCASE 2022 Workshop Travel funds<span style="float:right;">2022</span></div>
 
 ### Services
