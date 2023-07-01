@@ -64,7 +64,7 @@ author:
       icon: "fas fa-fw fa-building"
       url: "https://www.google.co.uk/maps/place/Bethnal+Green,+London+E1+4NS/@51.5244235,-0.0421397,18z/data=!3m1!4b1!4m6!3m5!1s0x48761d2f2a767bdd:0x6eae0ce69108306c!8m2!3d51.5246362!4d-0.0407103!16s%2Fm%2F0h6kk97?entry=ttu"
     - label: "Google scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=mDVXe7sAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -73,7 +73,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JinhuaLiang"
     - label: "ORCID"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0002-4570-0735"
 
 footer:
