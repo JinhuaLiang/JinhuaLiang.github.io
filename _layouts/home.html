@@ -1,0 +1,26 @@
+---
+layout: archive
+---
+<h3 class="archive__subtitle">{{ "Jinhua Liang" }}</h3>
+{{ "Jinhua Liang is now pursuing his doctoral degree at Queen Mary University of London, co-supervised by Emmanouil
+Benetos, Huy Phan, and Mark Sandler. Before that, he received his Bachelor and Master degrees, both from Tianjin
+University in 2018 and 2021, respectively. <br>
+His research interests mainly focus on everyday sound perception, including sound event detection, acoustic scene
+classification, and audio captioning. He is also interested in model compression and accelerating." }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+{% assign posts = paginator.posts %}
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+  {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
