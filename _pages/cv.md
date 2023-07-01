@@ -3,11 +3,11 @@ title: "CV"
 sitemap: True
 permalink: /cv/
 ---
-<span style="color:grey;font-weight:500;font-size:11px"> 
+<span style="color:grey;font-weight:500;font-size:25px"> 
 My curriculum vitae can be found [here](/assets/CV_Jinhua.pdf).
 </span>
 ### Education
-<p style="text-align:left;">Queen Mary University of London<span style="float:right;">09/2021-Now</span></p>
+<div style="text-align:left;">Queen Mary University of London<span style="float:right;">09/2021-Now</span></div>
 <p style="text-align:left;">Major: Electronic Engineering</p>
 <p style="text-align:left;">Degree: Doctor of Philosophy</p>
 
@@ -42,10 +42,10 @@ My curriculum vitae can be found [here](/assets/CV_Jinhua.pdf).
 <p style="text-align:left;">DCASE 2022 Workshop Travel funds<span style="float:right;">2022</span></p>
 
 ### Services
-Reviewer for IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)<br>
-Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)<br>
-Reviewer for Detection and Classification of Acoustic Scenes and Events Workshop (DCASE workshop)<br>
-Reviewer for Expert Systems with Applications<br>
-Reviewer for ACM Transactions on the Web<br>
-Reviewer for IEEE Access<br>
-Reviewer for Applied Acoustics<br>
+*Reviewer for IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)<br>
+*Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)<br>
+*Reviewer for Detection and Classification of Acoustic Scenes and Events Workshop (DCASE workshop)<br>
+*Reviewer for Expert Systems with Applications<br>
+*Reviewer for ACM Transactions on the Web<br>
+*Reviewer for IEEE Access<br>
+*Reviewer for Applied Acoustics<br>
