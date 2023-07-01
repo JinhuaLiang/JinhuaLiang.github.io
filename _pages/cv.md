@@ -3,6 +3,7 @@ title: "CV"
 sitemap: True
 permalink: /cv/
 ---
+My curriculum vitae can be found [here](./assets/images/CV_Jinhua.pdf).
 ### Education
 Queen Mary University of London                                <br>Major: Electronic Engineering<br>Degree: Doctor of Philosophy                         <br>09/2021-Now
 University of Surrey<br>Visiting researcher                                                                                                              <br>12/2022-Now
@@ -13,7 +14,7 @@ Tianjin University                                           <br>Major: Electron
 ### Awards
 
 ***Scholarships***
-UK EPSRC Studentship                                                                            2021-Now
+<p align="left">UK EPSRC Studentship</p> <p align="right">2021-Now</p> <br>
 China National Scholarship                                                                          2020
 The Fisrt Prize Academic Scholarship of Tianjin University                                     2019-2020
 The Second Prize Academic Scholarship of Tianjin University                                         2018
