@@ -3,7 +3,9 @@ title: "Research"
 sitemap: True
 permalink: /research/
 ---
-***Graduate stage (Principle investigator: Tao Zhang, Ph.D.) at Tianjin University, Tianjin, China***
+<span style="color:grey;">
+<i>Graduate stage (Principle investigator: Tao Zhang, Ph.D.) at Tianjin University, Tianjin, China</i>
+</span>
 
 **Efficient convolution neural network (CNN) for mobile applications**
 * Research on the reduction of computational complexity and resource cost without much performance degradation.
@@ -21,7 +23,10 @@ permalink: /research/
 * Successfully classified 98 categories of fruits in a short duration.
 
 
-***Undergraduate stage at Tianjin University, Tianjin, China***
+<span style="color:grey;">
+<i>Undergraduate stage at Tianjin University, Tianjin, China</i>
+</span>
+
 **Image denoising based on residual learning and batch normalization** 
 * To recover images from Gaussian noise with unknown noise level.
 * Mainly responsible for implementing various denoising methods for comparison.

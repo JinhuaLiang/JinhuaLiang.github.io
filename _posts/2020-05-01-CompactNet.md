@@ -1,5 +1,5 @@
 ---
-title: "[Paper released] Channel Compression: Rethinking Information Redundancy Among Channels in CNN Architecture"
+title: "[Paper accepted] Channel Compression: Rethinking Information Redundancy Among Channels in CNN Architecture"
 excerpt: "We designed a light convolutional structure to alleviate feature redundancy in CNN architectures."
 permalink: /post/compactnet/
 date: 2020-05-01T15:34:30-04:00
