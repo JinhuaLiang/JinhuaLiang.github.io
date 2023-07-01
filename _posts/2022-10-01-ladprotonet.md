@@ -12,7 +12,9 @@ tags:
 ---
 <img src="/assets/images/ladprotonet.jpg" height="400px" width="600px" align="center"/>
 
-We curated a new, large-scale database for multi-label few-shot audio classification and proposed a label-dependent prototypical networks to exploit the relationship between parent and children classes.
+Sound events cover hundreds of thousands categories in the real world. To extend a pretrained model to unfamiliar sound events, few-shot learning is getting an increasing number of interests these years. However, most of the existing works still restricted to single-label classification task, which is ill-suited to the practical scenario.
+
+To overcome these drawbacks, this work firstly curates a new database named FSD-FS for multi-label few-shot audio classification. It then explores how to incorporate audio taxonomy in few-shot learning. Specifically, this work proposes label-dependent prototypical networks (LaD-protonet) to exploit parent-children relationships between labels. Plus, it applies taxonomy-aware label smoothing techniques to boost model performance. Experiments demonstrate that LaD-protonet outperforms original prototypical networks as well as other state-of-the-art methods. Moreover, its performance can be further boosted when combined with taxonomy-aware label smoothing.
 
 See more details in the [paper](https://arxiv.org/abs/2212.08952)
 If you find this paper is helpful, please cite this paper.
