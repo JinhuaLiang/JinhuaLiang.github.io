@@ -1,7 +1,7 @@
 ---
 title: "CV"
 sitemap: True
-permalink: /cv
+permalink: /cv/
 ---
 
 # Honors
