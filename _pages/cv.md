@@ -4,7 +4,7 @@ sitemap: True
 permalink: /cv/
 ---
 <div style="color:grey;font-weight:500;font-size:18px"> 
-My curriculum vitae can be found [here](/assets/CV_Jinhua.pdf).
+My curriculum vitae can be found <a href="/assets/CV_Jinhua.pdf">here</a>.
 </div>
 ### Education
 <div style="text-align:left;">Queen Mary University of London<span style="float:right;">09/2021-present</span></div>
