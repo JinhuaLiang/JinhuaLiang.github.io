@@ -62,7 +62,7 @@ author:
   links:
     - label: "London, United Kingdom"
       icon: "fas fa-fw fa-building"
-      # url: "https://"
+      url: "https://"
     - label: "Google scholar"
       icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=mDVXe7sAAAAJ&hl=en"
@@ -74,7 +74,7 @@ author:
       url: "https://github.com/JinhuaLiang"
     - label: "ORCID"
       icon: "fab fa-fw fa-link"
-      url: "https://orcid.org/my-orcid?orcid=0000-0002-4570-0735"
+      url: "https://orcid.org/0000-0002-4570-0735"
 
 footer:
   links:
