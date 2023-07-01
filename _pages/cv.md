@@ -12,31 +12,30 @@ Tianjin University                                           <br>Major: Electron
 
 
 ### Awards
-
-***Scholarships***
-<p align="left">UK EPSRC Studentship<span align="right">2021-Now</span> </p>
+***Scholarships***<br>
+<p style="text-align:left;">UK EPSRC Studentship<span style="float:right;">2021-Now</span></p>
 China National Scholarship                                                                          2020
 The Fisrt Prize Academic Scholarship of Tianjin University                                     2019-2020
 The Second Prize Academic Scholarship of Tianjin University                                         2018
 
-***Honors***
+***Honors***<br>
 Outstanding Graduate of Tianjin University                                                          2020
 Merit Student of Tianjin University                                                                 2020
 Top 10 Outstanding Youth in Electrical and Information Engineering School                           2020
 Outstanding Student Cadres of Tianjin University                                                    2019
 
-***Prizes***
+***Prizes***<br>
 The Third Prize of the North China Division, the 14th China Graduate Electronic Design Competition  2019
 
-***Others***
+***Others***<br>
 DCASE 2022 Workshop Travel funds                                                                    2022
 
 
-### Services<br>
-Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
-Reviewer for Detection and Classification of Acoustic Scenes and Events (DCASE)
-Reviewer for Expert Systems with Applications
-Reviewer for ACM Transactions on the Web
-Reviewer for IEEE Access
-Reviewer for Applied Acoustics
-Reviewer for IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)
+### Services
+Reviewer for IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)<br>
+Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)<br>
+Reviewer for Detection and Classification of Acoustic Scenes and Events Workshop (DCASE workshop)<br>
+Reviewer for Expert Systems with Applications<br>
+Reviewer for ACM Transactions on the Web<br>
+Reviewer for IEEE Access<br>
+Reviewer for Applied Acoustics<br>
