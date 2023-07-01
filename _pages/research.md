@@ -1,7 +1,7 @@
 ---
 title: "Research"
 sitemap: True
-permalink: /research
+permalink: /research/
 ---
 
 ***Graduate stage (Principle investigator: Tao Zhang, Ph.D.) at Tianjin University, Tianjin, China***
