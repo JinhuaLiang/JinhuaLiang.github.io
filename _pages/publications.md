@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 sitemap: True
-permalink: /publications
+permalink: /publications/
 ---
 # Conference & journal paper
 
