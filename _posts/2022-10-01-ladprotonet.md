@@ -1,6 +1,6 @@
 ---
-title: "[Paper released] Learning from Taxonomy: Multi-label Few-shot Classification for Everyday Sound Recognition"
-excerpt: "We curated a new, large-scale database for multi-label few-shot audio classification and proposed a label-dependent prototypical networks to exploit the relationship between parent and children classes."
+title: "Learning from Taxonomy: Multi-label Few-shot Classification for Everyday Sound Recognition"
+excerpt: "This paper is in peer review."
 permalink: /post/compactnet/
 date: 2022-10-01T15:34:30-04:00
 categories:
