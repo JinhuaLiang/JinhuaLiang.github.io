@@ -7,7 +7,15 @@ permalink: /publications/
 <span style="color:grey;font-weight:500;font-size:18px">
 ✉ denotes the corresponding author
 </span>
-* Jinhua Liang, Huy Phan, and Emmanouil Benetos. “LEARNING FROM TAXONOMY: MULTI-LABEL FEW-SHOT CLASSIFICATION FOR EVERYDAY SOUND RECOGNITION” (in Peer Review). [[post]](/post/compactnet/) [[link]](https://arxiv.org/abs/2212.08952)
+* Jiehui Jia, Huan Zhang, Jinhua Liang. (2024) "Bridging Discrete and Continuous: A Multimodal Strategy for Complex Emotion Detection", in peer review.
+* Tanisha Hisariya, Huan Zhang, Jinhua Liang. (2024) "Bridging Paintings and Music – Exploring Emotion based Music Generation through Paintings", in peer review.
+* Wen Qing Lim Jinhua Liang Huan Zhang. (2024) "Hierarchical Symbolic Pop Music Generation with Graph Neural Networks", in peer review.
+* Huan Zhang, Shreyan Chowdhury, Carlos Eduardo Cancino-Chacˊon, Jinhua Liang, Simon Dixon, Gerhard Widmer. (2024) “DExter: Learning and Controlling Performance Expression with Diffusion Models. Applied Sciences. 14(15):6543.”
+* Huan Zhang, Jinhua Liang, Simon Dixon. (2024) "From Audio Encoders to Piano Judges: Benchmarking Performance Understanding for Solo Piano", International Society of Music Information Retrieval (ISMIR).
+* Jinhua Liang, Ines Nolasco, Burooj Ghani, Huy Phan, Emmanouil Benetos, Dan Stowell. (2024) “Mind the Domain Gap: a Systematic Analysis on Bioacoustic Sound Event Detection” European Signal Processing Conference (EUSIPCO) on Signal Analysis for Biodiversity.
+* Jinhua Liang, Huan Zhang, Haohe Liu, Yin Cao, Qiuqiang Kong, Xubo Liu, Wenwu Wang, Mark D. Plumbley, Huy Phan, Emmanouil Benetos. (2024) “WavCraft: Audio Editing and Generation with Natural Language Prompts”, International Conference on Learning Representations (ICLR) 2024 Workshop on LLM Agents.
+* Xubo Liu, Zhongkai Zhu, Haohe Liu, Yi Yuan, Meng Cui, Qiushi Huang, Jinhua Liang, Yin Cao, Quiqiang Kong, Mark D. Plumbley, Wenwu Wang. “Wavjourney: Compositional audio creation with large language models”, in Peer Review.
+* Jinhua Liang, Huy Phan, and Emmanouil Benetos. (2024) "Learning from Taxonomy: Multi-Label Few-Shot Classification for Everyday Sound Recognition", ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, Republic of, 2024, pp. 771-775, doi: 10.1109/ICASSP48485.2024.10446908. [[post]](/post/compactnet/) [[link]](https://arxiv.org/abs/2212.08952)
 * Jinhua Liang, Xubo Liu, Haohe Liu, Huy Phan, Emmanouil Benetos, Mark D. Plumbley, Wenwu Wang. “Adapting Language-Audio Models as Few-Shot Audio Learners” (accepted by INTERSPEECH 2023). [[post]]( /post/compactnet/) [[link]](https://arxiv.org/abs/2305.17719)
 * Yi Yuan, Haohe Liu, Jinhua Liang, Xubo Liu, Mark D. Plumbley, Wenwu Wang. “Leveraging Pre-trained AudioLDM for Sound Generation: A Benchmark Study” (accepted by EUSIPCO 2023). [[link]](https://arxiv.org/abs/2303.03857)
 * Liang, J., Phan, H., & Benetos, E. (2022). Leveraging Label Hierachies for Few-Shot Everyday Sound Recognition. Proceedings of the 7th Detection and Classification of Acoustic Scenes and Events 2022 Workshop (DCASE2022). Nancy, France.
