@@ -48,19 +48,7 @@ My curriculum vitae can be found <a href="/assets/CV_Jinhua.pdf">here</a>.
 <div style="text-align:left;">DCASE 2022 Workshop Travel funds<span style="float:right;">2022</span></div>
 
 ### Services
-Chef student reps in School of Electronic Engineering and Computer Science, QMUL 2021 - 2024
-Organiser for DCASE challenge Task 5 Few-shot Bioacoustic Event Detection
-Reviewer for IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-Reviewer for IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)
-Reviewer for Detection and Classification of Acoustic Scenes and Events (DCASE)
-Reviewer for Expert Systems with Applications
-Reviewer for ACM Transactions on the Web
-Reviewer for IEEE Access
-Reviewer for IEEE Signal Processing Letters
-Reviewer for Applied Acoustics
-Reviewer for Transactions on Audio, Speech and Language Processing (TASLP)
-
-<div style="text-align:left;">Co-chef student reps in School of Electronic Engineering and Computer Science, QMUL
+<div style="text-align:left;">* Co-chef student reps in School of Electronic Engineering and Computer Science, QMUL
 <span style="float:right;">2022-2024</span></div>
 
 * Organiser for DCASE challenge Task 5 Few-shot Bioacoustic Event Detection

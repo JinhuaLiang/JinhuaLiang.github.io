@@ -1,6 +1,6 @@
 ---
 title: "Learning from Taxonomy: Multi-label Few-shot Classification for Everyday Sound Recognition"
-excerpt: "This paper is in peer review."
+excerpt: "This paper is accepted by ICASSP2024."
 permalink: /post/compactnet/
 date: 2022-10-01T15:34:30-04:00
 categories:
